@@ -103,15 +103,15 @@ export default function Home() {
 
     return (
         <div className="">
-            <div className="bg-white w-full p-4">
+            <div className="bg-white w-full p-2">
                 <div className="max-w-screen-2xl px-4 lg:px-12 mx-auto  items-center flex justify-between">
                     <div className="w-1/2 flex justify-between">
-                        <p className="text-4xl font-bold mr-4 text-yellow-500">Cooking</p>
+                        <p className="text-3xl lg:text-4xl font-bold mr-4 text-yellow-500">Cooking</p>
                     </div>
                     <div className="w-1/2 flex justify-end">
                         <input type="search"
-                            className="bg-gray-200  px-4 py-3 lg:w-3/4 rounded-large text-black  focus:outline-none "
-                            placeholder="nasi padang..."
+                            className="bg-gray-200  px-4 py-2 w-3/4 lg:w-3/4 rounded-large text-black  focus:outline-none "
+                            placeholder="Search.."
                             onClick={openModal} />
                     </div>
                 </div>
@@ -126,7 +126,7 @@ export default function Home() {
                     <div className="lg:w-1/3 pl-12  pt-4">
                         <div>
                             <p className=" text-xl  font-extrabold pl-2 pb-6">100+ PREMIUM RECIPES</p>
-                            <p className="font-mono font-extrabold text-8xl lg:text-8xl mb-4">It's<br />Cooking <br />Time</p>
+                            <p className="font-mono font-extrabold text-6xl lg:text-8xl mb-4">It's<br />Cooking <br />Time</p>
                             <button className="bg-green-400 font-semibold text-white text-2xl px-7 py-4 rounded-large">Get Started</button>
                         </div>
                     </div>
@@ -136,7 +136,7 @@ export default function Home() {
 
 
             <div className="max-w-screen-2xl mx-auto px-8">
-                <p className="text-6xl leading-snug font-bold py-4 mt-6 ">
+                <p className="text-4xl lg:text-6xl leading-snug font-bold py-4 mt-6 ">
                     What would you like to Cook?
                 </p>
                 <div className="py-6 ">
@@ -238,13 +238,13 @@ export default function Home() {
                         </div>
                     </Dialog>
                 </Transition >
-                <p className="text-5xl font-bold text-gray-700 py-4 mb-2 font-mono">
+                <p className="text-4xl lg:text-5xl font-bold text-gray-700 py-4 mb-2 font-mono">
                     Today recipe
                 </p>
                 <div className="flex pb-12 gap-8 overflow-x-auto scrollbar-hide shadow-sm ">
                     {
                         newRecipes.map((recipe, index) => (
-                            <Link to="/recipes" className="w-1/2 lg:w-1/4 flex-shrink-0 shadow-sm transform transition duration-500 hover:scale-105" key={index}>
+                            <Link to="/recipes" className="w-3/4 lg:w-1/4 flex-shrink-0 shadow-sm transform transition duration-500 hover:scale-105" key={index}>
                                 <div className="rounded-xl ">
                                     <img src={recipe.thumb} alt="" className="rounded-t-xl w-full" />
                                     <div className="bg-gray-300 rounded-b-xl w-full" style={{
@@ -254,7 +254,7 @@ export default function Home() {
                                     }}>
                                         <div className="bg-black rounded-b-xl p-2 bg-opacity-80 h-36 flex items-center">
                                             <div>
-                                                <p className="font-semibold text-lg  text-gray-100 text-center ">{recipe.title}</p>
+                                                <p className="font-semibold text-md lg:text-lg  text-gray-100 text-center ">{recipe.title}</p>
                                                 <p className="text-gray-200 py-2 text-sm font-light text-center">{recipe.times} | {recipe.portion} | {recipe.dificulty}</p>
                                             </div>
                                         </div>
@@ -268,7 +268,7 @@ export default function Home() {
 
             <div className="max-w-screen-2xl mx-auto lg:flex p-6">
                 <div className="lg:w-1/6 w-full ">
-                    <p className=" text-5xl pl-4 text-gray-700 lg:pl-0 font-bold mt-4 mb-4  font-mono ">
+                    <p className="text-4xl lg:text-5xl pl-4 text-gray-700 lg:pl-0 font-bold mt-4 mb-4  font-mono ">
                         Categories
                     </p>
                     <div className="overflow-x-auto  flex lg:block  scrollbar-hide">
@@ -278,11 +278,11 @@ export default function Home() {
                                     <div className="rounded-lg lg:px-0 px-4  mx-2 py-4 w-full flex " key={index}>
                                         {active === `${category.key}` ?
                                             <div className="w-full flex">
-                                                <button value={`${category.key}`} onClick={(e) => click(e.target.value)} className={`${active} === ${category.key} ? 'bg-yellow-300 ' : '' text-2xl text-center lg:text-left bg-yellow-300 rounded-xl px-6 py-2 font-semibold`}>{category.category}</button>
+                                                <button value={`${category.key}`} onClick={(e) => click(e.target.value)} className={`${active} === ${category.key} ? 'bg-yellow-300 ' : '' text-lg lg:text-2xl text-center lg:text-left bg-yellow-300 rounded-xl px-6 py-2 font-semibold`}>{category.category}</button>
                                             </div>
                                             :
                                             <div className="w-full flex">
-                                                <button value={`${category.key}`} onClick={(e) => click(e.target.value)} className="text-2xl text-center lg:text-left  font-semibold">{category.category}</button>
+                                                <button value={`${category.key}`} onClick={(e) => click(e.target.value)} className="text-lg lg:text-2xl text-center lg:text-left  font-semibold">{category.category}</button>
                                             </div>
                                         }
 
@@ -307,7 +307,7 @@ export default function Home() {
                                                 backgroundRepeat: 'no-repeat',
                                             }}>
                                                 <div className="bg-black rounded-b-xl px-4 py-4 h-40 bg-opacity-80">
-                                                    <p className="font-semibold text-xl  text-gray-100 text-center">{recipe.title}</p>
+                                                    <p className="font-semibold text-md lg:text-xl  text-gray-100 text-center">{recipe.title}</p>
                                                     <p className="text-gray-200  text-sm font-light text-center">by : Miftah</p>
                                                     <p className="text-gray-200 py-2 text-sm font-light text-center">{recipe.times} | {recipe.portion} | {recipe.dificulty}</p>
                                                 </div>

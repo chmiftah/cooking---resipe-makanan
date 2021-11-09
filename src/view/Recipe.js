@@ -28,13 +28,13 @@ export default function Recipe() {
     }, [data])
     return (
         <div className="bg-gray-100">
-            <div className="bg-white w-full p-4">
+            <div className="bg-white w-full p-2">
                 <div className="max-w-screen-md mx-auto  items-center flex justify-between">
                     <div className="w-1/2 flex justify-between">
-                        <p className="text-4xl font-bold mr-4 text-yellow-400">Cooking</p>
+                        <p className="text-3xl lg:text-4xl font-bold mr-4 text-yellow-400">Cooking</p>
                     </div>
                     <div className="w-1/2 flex justify-end">
-                        <input type="search" className="bg-gray-200  px-4 py-3 lg:w-3/4 rounded-large text-black  focus:outline-none " placeholder="nasi padang..." />
+                        <input type="search" className="bg-gray-200  px-4 py-2 w-3/4 lg:w-3/4 rounded-large text-black  focus:outline-none " placeholder="cari" />
                     </div>
                 </div>
             </div>
@@ -60,32 +60,32 @@ export default function Recipe() {
                             </div>
                         </div>
                         <div className="py-12">
-                            <p className="text-4xl text-gray-700 font-bold mb-1 font-mono">
+                            <p className="text-3xl lg:text-4xl text-gray-700 font-bold mb-1 font-mono">
                                 {data.title}
                             </p>
                             <p className="mb-6 text-gray-600 font-light text-md">
                                 Author : {author.user} | Published : {author.datePublished}
                             </p>
-                            <div className="flex gap-4" >
-                                <div className="w-1/3 bg-green-100 flex justify-center px-12  py-12 rounded-xl">
+                            <div className="flex gap-4 -ml-4" >
+                                <div className="w-1/3 bg-green-100 flex justify-center px-12 py-4  rounded-xl">
                                     <div>
-                                        <ClockIcon className="w-20 text-green-400" />
-                                        <p className=" text-center text-green-400 text-xl font-bold">{data.times}</p>
+                                        <ClockIcon className="w-12 lg:w-20 text-green-400" />
+                                        <p className=" text-center text-green-400 text-md lg:text-xl  font-bold">{data.times}</p>
                                     </div>
                                 </div>
-                                <div className="w-1/3 bg-blue-100 px-12  flex justify-center py-12 rounded-xl">
+                                <div className="w-1/3 bg-blue-100 px-12 py-4  flex justify-center  rounded-xl">
 
                                     <div>
-                                        <UserGroupIcon className="w-20 text-blue-400" />
-                                        <p className="text-center text-blue-400 text-xl font-bold">{data.servings}</p>
+                                        <UserGroupIcon className="w-12 lg:w-20 text-blue-400" />
+                                        <p className="text-center text-blue-400 text-md lg:text-xl font-bold">{data.servings}</p>
                                     </div>
 
 
                                 </div>
-                                <div className="w-1/3 bg-yellow-100 px-12  flex justify-center py-12 rounded-xl">
+                                <div className="w-1/3 bg-yellow-100 px-12 py-4  flex justify-center rounded-xl">
                                     <div>
-                                        <AcademicCapIcon className="w-20 text-yellow-400" />
-                                        <p className="text-center text-yellow-400 text-xl font-bold">{data.dificulty}</p>
+                                        <AcademicCapIcon className="w-12 lg:w-20 text-yellow-400" />
+                                        <p className="text-center text-yellow-400 text-md lg:text-xl font-bold">{data.dificulty}</p>
                                     </div>
 
                                 </div>
