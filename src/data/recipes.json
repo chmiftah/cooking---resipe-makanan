@@ -1,0 +1,742 @@
+{
+    "data": {
+        "dessert": [
+            {
+                "title": "Resep Sambal Tempe Kemangi, Jadikan Semua Semakin Istimewa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/07/sambal_tempe_kemangi_MAHI-400x240.jpg",
+                "key": "resep-sambal-tempe-kemangi",
+                "times": "45mnt",
+                "portion": "3 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Gado-Gado Surabaya, Racikan Sehat dengan Cita Rasa Gurih Pedas",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/11/4-400x240.jpg",
+                "key": "resep-gado-gado-surabaya",
+                "times": "1jam 30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Ravioli Goreng Isi Ayam, Camilan Renyah Saat Santai",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/08/Ravioli-Goreng-Isi-Ayam-400x240.jpg",
+                "key": "resep-ravioli-goreng-isi-ayam",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tongseng Khas Solo, Rasa Otentik yang Selalu Bikin Kangen",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/07/tongseng-khas-solo-400x240.jpg",
+                "key": "resep-tongseng-khas-solo",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Iga Bakar a la Makassar, Menu Mewah Untuk Ide Idul Adha",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/06/resep-iga-bakar-siap-400x240.jpg",
+                "key": "resep-iga-bakar-a-la-makassar",
+                "times": "2jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Soto Ayam Bening, Penghangat Suasana di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/06/soto-ayam-bening-400x240.jpg",
+                "key": "resep-soto-ayam-bening",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Lontong Opor Ayam Kemangi, Pilihan Tepat untuk Merayakan Hari Raya Ied",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/05/lontong-opor-ayam-kemangi-400x240.jpg",
+                "key": "resep-lontong-opor-ayam-kemangi",
+                "times": "2jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Goreng Terasi, Sajian Sedap untuk Keluarga",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/09/ayam-goreng-terasi-400x240.jpg",
+                "key": "resep-ayam-goreng-terasi",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Black Forest Ice Cream Sandwich, Sebuah Dessert yang Praktis Nan Istimewa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/06/black-forest-dish_edited-400x240.jpg",
+                "key": "resep-black-forest-ice-cream-sandwich",
+                "times": "30mnt",
+                "portion": "6 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Teh Tarik Jelly, Praktis dan Segar Setiap Saat",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/04/Teh-Tarik-Jelly-400x240.jpg",
+                "key": "resep-teh-tarik-jelly",
+                "times": "25mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "tradisional": [
+            {
+                "title": "Resep Soto Gebrak, Menu Segar yang Pas Disajikan Kapan Saja",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/08/soto-gebrak-400x240.jpg",
+                "key": "resep-soto-gebrak",
+                "times": "1jam 15mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tempe Bacem Asam Manis, Menu Rumahan yang Selalu Dikangeni",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/11/tempe-bacem-asam-manis-MAHI-7-e1542338043628-400x240.jpg",
+                "key": "resep-tempe-bacem-asam-manis",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tahu Isi Udang, Tambah Koleksi Hidangan Camilanmu di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/04/udang-pun-tahu-400x240.jpg",
+                "key": "resep-tahu-isi-udang",
+                "times": "50mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Spaghetti Opor Bola-Bola Ayam, Sajian Istimewa Perpaduan Dua Dunia",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/07/spageti-opor-400x240.jpg",
+                "key": "resep-spaghetti-opor-bola-bola-ayam",
+                "times": "55mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Opor Ayam Kecombrang, Hidangan Aromatik yang Mencuri Perhatian",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/06/opor-ayam-kecombrang-400x240.jpg",
+                "key": "resep-opor-ayam-kecombrang",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Cara Memasak Daging Kambing untuk Sambut Idul Adha",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/08/cara-memasak-daging-kambing-MAHI-5-400x240.jpg",
+                "key": "cara-memasak-daging-kambing",
+                "times": "1jam",
+                "portion": "3 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Kari Sayuran, Menu Komplet Untuk Inspirasi Ramadan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/04/Kare-Sayuran-400x240.jpg",
+                "key": "resep-ayam-kari-sayuran-menu-komplet-untuk-inspirasi-ramadan",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Kreasi Resep Cah Kangkung Sapi dengan Bumbu Rujak",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/05/resep-cah-kangkung-400x240.jpg",
+                "key": "resep-cah-kangkung-sapi-bumbu-rujak",
+                "times": "40mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Sandwich Ayam Krispi Saus Telur Asin, Ide Praktis Untuk Menu Brunch",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/09/Resep-Sandwich-Ayam-Krispi-Saus-Telur-Asin-400x240.jpg",
+                "key": "resep-sandwich-ayam-krispi-saus-telur-asin",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Bacem Ikan Bawal, Lengkapi Istimewanya Jamuan Hari Ini",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/05/bacem-ikan-bawal-400x240.jpg",
+                "key": "resep-bacem-ikan-bawal",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "siang": [
+            {
+                "title": "Resep Nasi Goreng Jagung, Menu Sarapan yang Menggiurkan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/06/nasi-goreng-jagung-400x240.jpg",
+                "key": "resep-nasi-goreng-jagung",
+                "times": "50mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Mujair Bakar Kecap Pedas, Inspirasi Menu Ikan Bakar A la Restoran",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/12/resep-mujair-dinikmati-400x240.jpg",
+                "key": "resep-mujair-bakar-kecap-pedas",
+                "times": "1jam",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Mie Tek-Tek, Paling Pas Dinikmati Saat Malam Tiba",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/07/4-5-400x240.jpg",
+                "key": "resep-mie-tek-tek",
+                "times": "45mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Pizza Tahu, Sajian Unik dan Spesial untuk Keluarga",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/02/pizza-tahu-400x240.jpg",
+                "key": "resep-pizza-tahu",
+                "times": "45mnt",
+                "portion": "5 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Semur Daging Kambing Lada Hitam, Siapkan untuk Momen Terbaikmu",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/11/semur-daging-kambing-400x240.jpg",
+                "key": "semur-daging-kambing-lada-hitam",
+                "times": "1jam 30mnt",
+                "portion": "3 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Inilah Cara Membuat Boba Tea, Minuman Hits di Kalangan Anak Muda",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/01/cara-membuat-boba-tea-13-400x240.jpg",
+                "key": "cara-membuat-boba-tea",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Risol Bihun Ayam Jamur, Lezat Sebagai Camilan di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/09/resep-risol-bihun-400x240.jpg",
+                "key": "resep-risol-bihun-ayam-jamur",
+                "times": "45mnt",
+                "portion": "5 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Daging Kambing Masak Santan, Jadikan Awal Bulan Lebih Istimewa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/10/daging-kambing-masak-santan-400x240.jpg",
+                "key": "resep-daging-kambing-masak-santan",
+                "times": "1jam 30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Asam Manis Untuk Bekal Makan Siang",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/07/Ayam-Asam-Manis-400x240.jpg",
+                "key": "resep-ayam-asam-manis",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Soto Sapi Santan untuk Pencinta Hidangan Berkuah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/06/Soto-Sapi-Santan-400x240.jpg",
+                "key": "resep-soto-sapi-santan",
+                "times": "1jam 30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "malam": [
+            {
+                "title": "Resep Udang Cah Mangga, Rasa Gurih dan Asam Segar Berpadu Harmonis",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/06/shrimp-salad-400x240.jpg",
+                "key": "resep-udang-cah-mangga",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Gado-Gado Surabaya, Racikan Sehat dengan Cita Rasa Gurih Pedas",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/11/4-400x240.jpg",
+                "key": "resep-gado-gado-surabaya",
+                "times": "1jam 30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Lasagna Keju Spesial untuk Hidangan Mewah di Akhir Pekan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/01/Lasagna-Piring-Putih-400x240.jpg",
+                "key": "resep-lasagna-keju-spesial",
+                "times": "2jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Tongseng Daging Sapi, Hidangan Ikonik dari Jawa Tengah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/09/tongseng-daging-sapi-400x240.jpg",
+                "key": "resep-tongseng-daging-sapi",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Kreasi Resep Cah Kangkung Sapi dengan Bumbu Rujak",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/05/resep-cah-kangkung-400x240.jpg",
+                "key": "resep-cah-kangkung-sapi-bumbu-rujak",
+                "times": "40mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Combro Isi Jamur, Teman Minum Teh Hangat di Sore Hari",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/09/combro-isi-jamur-MAHI-1-400x240.jpg",
+                "key": "resep-combro-isi-jamur",
+                "times": "1jam",
+                "portion": "6 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Ikan Kembung Kukus, Menu Sehat Sekaligus Lezat",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/04/kembung-kukus-asam-400x240.jpg",
+                "key": "resep-ikan-kembung-kukus-asam",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Sup Kacang Merah, Begitu Lezat dan Bernutrisi",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/09/sup-kacang-merah-400x240.jpg",
+                "key": "resep-sup-kacang-merah",
+                "times": "1jam 45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Omelet untuk Sarapan Penuh Gizi",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/07/cara_membuat_oomelet_MAHI-1-400x240.jpg",
+                "key": "cara-membuat-omelet",
+                "times": "40mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Soto Ayam Daun Jeruk, Hangat Tersaji Kapan Saja",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/10/soto-ayam-daun-jeruk.jpg",
+                "key": "resep-soto-ayam-daun-jeruk",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "daging": [
+            {
+                "title": "Resep Gulai Udang Burrito, Satu Twist Unik yang Tidak Boleh Dilewatkan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/10/gulai-udang-MAHI-1-400x240.jpg",
+                "key": "resep-gulai-udang-burrito",
+                "times": "1jam",
+                "portion": "5 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Mie Goreng Jawa Spesial, Cocok Disajikan di Musim Hujan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/04/resep-mie-goreng-jawa-spesial-400x240.jpg",
+                "key": "resep-mie-goreng-jawa-spesial",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Cumi Goreng Bumbu Kecap Pedas, Kelezatan yang Tak Tertandingi",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/10/shutterstock_1451344937-400x240.jpg",
+                "key": "resep-cumi-goreng-bumbu-kecap-pedas",
+                "times": "50mnt",
+                "portion": "3 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Pecak Ikan Gurame, Ramaikan Suasana Santap Siang",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/03/pecak-ikan-gurame-7-400x240.jpg",
+                "key": "resep-pecak-ikan-gurame",
+                "times": "1jam",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Bihun Orak-Arik, Kelezatan yang Datang dari Sebuah Kemudahan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/02/orak-arik-bihun-400x240.jpg",
+                "key": "resep-bihun-orak-arik",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Cara Membuat Churros Saus Salted Caramel, Kejutan Baru untuk Menu Takjil",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/02/cara-membuat-churros-dinikmati-400x240.jpg",
+                "key": "cara-membuat-churros-saus-salted-caramel",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tumis Kerang Manis Pedas, Menu Lezat untuk Akhir Pekan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/10/tumis-kerang-manis-pedas-400x240.jpg",
+                "key": "resep-tumis-kerang-manis-pedas",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Rica-Rica Kambing, Satu yang Pedas dan Lezat untuk Hari Raya",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/08/rica-rica-kambing-400x240.jpg",
+                "key": "resep-rica-rica-kambing",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Ikan Kembung Kukus, Menu Sehat Sekaligus Lezat",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/04/kembung-kukus-asam-400x240.jpg",
+                "key": "resep-ikan-kembung-kukus-asam",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Chicken Wings Saus Padang, Mencoba Sesuatu yang Berbeda",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/06/chicken-wings-saus-padang-400x240.jpg",
+                "key": "resep-chicken-wings-saus-padang",
+                "times": "1jam",
+                "portion": "5 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "ayam": [
+            {
+                "title": "Resep Sate Udang Manis, Saatnya Pesta Seafood di Akhir Pekan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/10/sate-udang-400x240.jpg",
+                "key": "resep-sate-udang-manis-saatnya-pesta-seafood-di-akhir-pekan",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Tempe Orek Teri Pedas Manis, Lauk Pelengkap yang Bikin Ketagihan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/08/Resep-tempe-orek-teri-400x240.jpeg",
+                "key": "resep-tempe-orek-teri-pedas-manis",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Salmon Mentai, Ternyata Mudah untuk Dibuat Sendiri di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/10/salmon-mentai-dinikmati-400x240.jpg",
+                "key": "resep-salmon-mentai",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Semur Bebek Pedas, Variasi Semur yang Pas di Segala Kesempatan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/04/semur-bebek-400x240.jpg",
+                "key": "resep-semur-bebek-pedas",
+                "times": "40mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Pempek Udang Saus Bumbu Rujak, Kejutan Seru untuk Keluarga",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/10/pempek-udang-MAHI-7-400x240.jpg",
+                "key": "resep-pempek-udang-saus-bumbu-rujak",
+                "times": "1jam",
+                "portion": "6 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Goreng Crispy, Menu Buka Puasa Paling Seru",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/05/shutterstock_209859640-400x240.jpg",
+                "key": "resep-ayam-goreng-crispy-jawara",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Oreo Ice Cream Box, Dessert Kekinian yang Bisa Kamu Buat di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/04/COVER-3-min-400x240.jpg",
+                "key": "resep-oreo-ice-cream-box",
+                "times": "30mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Iga Bakar Trimurti, Begitu Lezat dan Meresap",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/07/iga_bakar_trimurti_MAHI-400x240.jpg",
+                "key": "resep-iga-bakar-trimurti",
+                "times": "1jam 45mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Level Chef Panji"
+            },
+            {
+                "title": "Resep Liwetan Khas Sunda yang Aromanya Selalu Menggoda",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/06/liwetan-khas-sunda-400x240.jpg",
+                "key": "resep-liwetan-khas-sunda",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Beef Teriyaki Lezat versi Rumahan untuk Makan Siang",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/12/resep-beef-teriyaki-2-400x240.jpg",
+                "key": "resep-beef-teriyaki",
+                "times": "30mnt",
+                "portion": "3 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "sayuran": [
+            {
+                "title": "Resep Ketan Serundeng, Camilan Tradisional yang Menggiurkan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/02/ketan-serundeng-1-400x240.jpg",
+                "key": "resep-ketan-serundeng",
+                "times": "1jam",
+                "portion": "5 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Taliwang, Rasa Manis Pedas yang Begitu Kaya dari Lombok",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/01/ayam-taliwang-6-400x240.jpg",
+                "key": "resep-ayam-taliwang",
+                "times": "1jam 30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Bitterballen, Camilan Gurih Warisan Kolonial Belanda",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/01/bitterballen-13-e1580706220989-400x240.jpg",
+                "key": "resep-bitterballen",
+                "times": "1jam",
+                "portion": "30 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Bolu Pisang Kukus Praktis dan Anti Gagal",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/11/Bolu-Pisang-Kukus-400x240.jpg",
+                "key": "resep-bolu-pisang-kukus",
+                "times": "1jam 20mnt",
+                "portion": "6 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Kakap Goreng Telur Asin, Bikin Makan Makin Lahap",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/10/ikan-goreng-telur-asin-400x240.jpg",
+                "key": "resep-kakap-goreng-ikan-asin",
+                "times": "45mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Bakwan Goreng Enoki, Camilan Baru untuk Keluarga di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/04/resep-bakwan-goreng-enoki-6-400x240.jpg",
+                "key": "resep-bakwan-goreng-enoki",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Es Cincau Milk Tea, Segar untuk Teman Makan Snack",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/01/es-cincau-produk-400x240.jpg",
+                "key": "resep-es-cincau-milk-tea",
+                "times": "2jam",
+                "portion": "3 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Udang Goreng Mentega Spesial untuk Berbuka Puasa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/05/udang_goreng_mentega-compress2.jpg",
+                "key": "resep-udang-goreng-mentega",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Sup Oyong Bakso Ikan, Makan di Rumah Jadi Lebih Menyenangkan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/06/sup-oyong-400x240.jpg",
+                "key": "resep-sup-oyong-bakso-ikan",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Cara Membuat Ketupat Gurih untuk Menyambut Ramadan dan Hari Raya",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/04/Ketupat-400x240.jpg",
+                "key": "cara-membuat-ketupat",
+                "times": "4jam",
+                "portion": "6 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "seafood": [
+            {
+                "title": "Resep Ayam Suwir Kecap Pedas, Makanan Rumahan Lezat Anti Sisa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/08/resep-ayam-suwir-MAHI-1-400x240.jpg",
+                "key": "resep-ayam-suwir-kecap-pedas-lezat",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Kering Kentang Teri, Menu Pendamping Tahan Lama",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/11/kering-kentang-teri-enjoy-400x240.jpg",
+                "key": "resep-kering-kentang-teri",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Viennetta Tiramisu Cake, Rasa Manis yang Creamy, Lumer, dan Crunchy Jadi Satu",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/09/tiramisu-cake-featured-400x240.jpg",
+                "key": "resep-viennetta-tiramisu-cake",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Mie Tek-Tek, Paling Pas Dinikmati Saat Malam Tiba",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/07/4-5-400x240.jpg",
+                "key": "resep-mie-tek-tek",
+                "times": "45mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Cumi Masak Cabai Hijau, Bawaannya Ingin Tambah Terus",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/07/CUMI-MASAK-CABAI-HIJAU-400x240.jpg",
+                "key": "resep-cumi-masak-cabai-hijau",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Sapo Tahu Ayam yang Praktis dan Penuh Nutrisi",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/04/sapo-tahu-400x240.jpg",
+                "key": "resep-sapo-tahu-ayam",
+                "times": "40mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tempe Mendoan Sambal Kecap, Jodoh Sejatinya Sroto Banyumas",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/03/resep-tempe-mendoan-400x240.jpg",
+                "key": "resep-tempe-mendoan-sambal-kecap",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Soto Pekalongan, Sajian Legendaris dari Pesisir Utara Jawa Tengah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/04/4-2-400x240.jpg",
+                "key": "resep-soto-pekalongan",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Tahu Brontak, Camilan Lezat Teman Teh Anti Sisa",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/02/resep-tahu-brontak-dinikmati-400x240.jpg",
+                "key": "resep-tahu-brontak",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Spaghetti Carbonara untuk Kamu yang Kangen Makan di Restoran",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/12/spaghetti-carbonara-400x240.jpg",
+                "key": "resep-spaghetti-carbonara",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            }
+        ],
+        "sarapan": [
+            {
+                "title": "Resep Sambal Goreng Ati Sapi, Makanan Rumahan Dambaan Seluruh Keluarga",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/05/sambal-goreng-ati-400x240.jpg",
+                "key": "resep-sambal-goreng-ati-sapi",
+                "times": "1jam 5mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Nasi Telur Pontianak yang Praktis dan Gampang Buatnya",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2020/07/nasi-telur-pontianak-disajikan-400x240.jpg",
+                "key": "resep-nasi-telur-pontianak",
+                "times": "15mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Ayam Bekakak Khas Bandung, Mudah Dicoba di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/11/ayam-bekakak-400x240.jpg",
+                "key": "resep-ayam-bekakak-khas-bandung",
+                "times": "1jam",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Ayam Kuah Pedas, Rasanya Begitu Segar dan Menantang",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/09/ayam-kuah-pedas-400x240.jpg",
+                "key": "resep-ayam-kuah-pedas",
+                "times": "1jam 15mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Karedok, Hidangan Sehat dari Tatar Sunda",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/09/karedok-MAHI-1-400x240.jpg",
+                "key": "resep-karedok",
+                "times": "30mnt",
+                "portion": "5 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Buntut Sapi Pedas, Akhir Pekan Tidak Pernah Seseru Ini",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/08/buntut-sapi-pedas-400x240.jpg",
+                "key": "resep-buntut-sapi-pedas",
+                "times": "1jam 30mnt",
+                "portion": "2 Porsi",
+                "dificulty": "Cukup Rumit"
+            },
+            {
+                "title": "Resep Tumis Buncis Telur, Sajian Penawar Rindu Masakan Rumahan",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2018/09/tumis-buncis-telur-MAHI-6-400x240.jpg",
+                "key": "resep-tumis-buncis-telur",
+                "times": "30mnt",
+                "portion": "3 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Pudding Silky Guava yang Lembut dan Segar untuk Dessert Keluarga",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2021/09/Resep-Pudding-Silky-Guava-400x240.jpg",
+                "key": "resep-pudding-silky-guava",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Cumi Asin Asam, Sahabat Sejati Nasi Ulam Betawi",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/03/cumi-asin-asam-400x240.jpg",
+                "key": "resep-cumi-asin-asam",
+                "times": "45mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Mudah"
+            },
+            {
+                "title": "Resep Bola Tahu Goreng Udang, Jadikan Sebagai Favorit Baru di Rumah",
+                "thumb": "https://www.masakapahariini.com/wp-content/uploads/2019/01/bola-tahu-goreng-udang-400x240.jpg",
+                "key": "resep-bola-tahu-goreng-udang",
+                "times": "30mnt",
+                "portion": "4 Porsi",
+                "dificulty": "Cukup Rumit"
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "category": "Dessert",
+        "url": "https://www.masakapahariini.com/resep-masakan/resep-dessert/",
+        "key": "dessert"
+    },
+    {
+        "category": "Tradisional",
+        "url": "https://www.masakapahariini.com/resep-masakan/masakan-tradisional/",
+        "key": "tradisional"
+    },
+    {
+        "category": "Malam",
+        "url": "https://www.masakapahariini.com/resep-masakan/makan-malam/",
+        "key": "malam"
+    },
+    {
+        "category": "Siang",
+        "url": "https://www.masakapahariini.com/resep-masakan/makan-siang/",
+        "key": "siang"
+    },
+    {
+        "category": "Ayam",
+        "url": "https://www.masakapahariini.com/resep-masakan/resep-ayam/",
+        "key": "ayam"
+    },
+    {
+        "category": "Daging",
+        "url": "https://www.masakapahariini.com/resep-masakan/resep-daging/",
+        "key": "daging"
+    },
+    {
+        "category": "Sayuran",
+        "url": "https://www.masakapahariini.com/resep-masakan/resep-sayuran/",
+        "key": "sayuran"
+    },
+    {
+        "category": "Seafood",
+        "url": "https://www.masakapahariini.com/resep-masakan/resep-seafood/",
+        "key": "seafood"
+    },
+    {
+        "category": "Sarapan",
+        "url": "https://www.masakapahariini.com/resep-masakan/sarapan/",
+        "key": "sarapan"
+    }
+]
