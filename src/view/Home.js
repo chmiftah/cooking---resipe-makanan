@@ -8,7 +8,6 @@ import data from '../data/data-recipe.json'
 import category from '../data/data-category.json'
 import recipe from '../data/recipes.json'
 import { Link } from 'react-router-dom'
-import spinner from './spinner.gif'
 axios.defaults.withCredentials = true
 
 
@@ -230,9 +229,7 @@ export default function Home() {
                                                         </Link>
                                                     ))
                                                     :
-                                                    <div className="flex w-full justify-center bg-gray-100"> 
-                                                        <img src={spinner} className=""/>
-                                                    </div>
+                                                 ''
                                             }
                                         </div>
                                     </div>
