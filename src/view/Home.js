@@ -230,7 +230,7 @@ export default function Home() {
                                                         </Link>
                                                     ))
                                                     :
-                                                    <div className="flex justify-center"> 
+                                                    <div className="flex w-full justify-center bg-gray-100"> 
                                                         <img src={spinner} className=""/>
                                                     </div>
                                             }
